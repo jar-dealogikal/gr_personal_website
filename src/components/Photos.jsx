@@ -8,26 +8,26 @@ const images = [
 		id: 1,
 		src: img6,
 		aspectRatio: "aspect-[7/5]",
-		width: "w-[37rem]",
+		width: "w-full sm:w-[37rem]",
 	},
 	{
 		id: 2,
 		src: img10,
 		aspectRatio: "aspect-[4/3]",
-		width: "w-[24rem]",
-		height: "h-[30rem]",
+		width: "w-full sm:w-[24rem]",
+		height: "h-auto sm:h-[30rem]",
 	},
 	{
 		id: 3,
 		src: img7,
 		aspectRatio: "aspect-[6/5]",
-		width: "w-[37rem]",
+		width: "w-full sm:w-[37rem]",
 	},
 	{
 		id: 4,
 		src: img9,
 		aspectRatio: "aspect-[4/3]",
-		width: "w-[24rem]",
+		width: "w-full sm:w-[24rem]",
 	},
 ];
 
@@ -50,7 +50,7 @@ export default function Photos() {
 						{images.map((image) => (
 							<div
 								key={image.id}
-								className={`w-0 flex-auto lg:w-auto lg:flex-none lg:self-end`}
+								className="w-full sm:w-auto flex-auto lg:w-auto lg:flex-none lg:self-end"
 							>
 								<img
 									alt=""
