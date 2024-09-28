@@ -8,7 +8,7 @@ const navigation = {
 	social: [
 		{
 			name: "Facebook",
-			href: "#",
+			href: "https://www.facebook.com/genesis.sullano",
 			icon: (props) => (
 				<svg fill="currentColor" viewBox="0 0 24 24" {...props}>
 					<path
@@ -21,7 +21,7 @@ const navigation = {
 		},
 		{
 			name: "Instagram",
-			href: "#",
+			href: "https://www.instagram.com/grsullano/",
 			icon: (props) => (
 				<svg fill="currentColor" viewBox="0 0 24 24" {...props}>
 					<path
@@ -34,7 +34,7 @@ const navigation = {
 		},
 		{
 			name: "Email",
-			href: "#",
+			href: "mailto:sullanogenesisray@gmail.com",
 			icon: (props) => (
 				<svg
 					xmlns="http://www.w3.org/2000/svg"
