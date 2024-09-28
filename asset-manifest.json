@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/gr_personal_website/static/css/main.c8fc5cf8.css",
+    "main.js": "/gr_personal_website/static/js/main.b34bb612.js",
+    "static/js/453.f62d58bb.chunk.js": "/gr_personal_website/static/js/453.f62d58bb.chunk.js",
+    "static/media/img1.jpeg": "/gr_personal_website/static/media/img1.5f0194354b7c1792db37.jpeg",
+    "static/media/img9.jpeg": "/gr_personal_website/static/media/img9.5cfc686dfdecf7f696fe.jpeg",
+    "static/media/img4.jpeg": "/gr_personal_website/static/media/img4.818b772acfbbef19533d.jpeg",
+    "static/media/img6.jpeg": "/gr_personal_website/static/media/img6.43debb775778ff2c64f7.jpeg",
+    "static/media/img7.jpeg": "/gr_personal_website/static/media/img7.ae213d2c0a7dbac3af55.jpeg",
+    "static/media/img8.jpeg": "/gr_personal_website/static/media/img8.8c10c9f6a2bd7c31dedb.jpeg",
+    "static/media/img3.jpeg": "/gr_personal_website/static/media/img3.23d6b677d60eb6748ff6.jpeg",
+    "static/media/img10.jpeg": "/gr_personal_website/static/media/img10.e91735527a9f382e4a6a.jpeg",
+    "index.html": "/gr_personal_website/index.html",
+    "main.c8fc5cf8.css.map": "/gr_personal_website/static/css/main.c8fc5cf8.css.map",
+    "main.b34bb612.js.map": "/gr_personal_website/static/js/main.b34bb612.js.map",
+    "453.f62d58bb.chunk.js.map": "/gr_personal_website/static/js/453.f62d58bb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c8fc5cf8.css",
+    "static/js/main.b34bb612.js"
+  ]
+}
