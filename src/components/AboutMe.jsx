@@ -2,7 +2,7 @@ import { CheckCircleIcon } from "@heroicons/react/20/solid";
 import img from "../images/img4.jpeg";
 const benefits = [
 	"Singing",
-	"Model",
+	"Trader",
 	"Love coding",
 	"Guitar",
 	"Strive to learn new things",
@@ -28,9 +28,7 @@ export default function AboutMe() {
 								Lorem ipsum dolor sit amet consect adipisicing elit. Possimus
 								magnam voluptatum cupiditate veritatis in accusamus quisquam.
 							</p>
-							<ul
-								className="mt-10 grid grid-cols-1 gap-x-8 gap-y-3 text-base leading-7 text-gray-500 sm:grid-cols-2"
-							>
+							<ul className="mt-10 grid grid-cols-1 gap-x-8 gap-y-3 text-base leading-7 text-gray-500 sm:grid-cols-2">
 								{benefits.map((benefit) => (
 									<li key={benefit} className="flex gap-x-3">
 										<CheckCircleIcon

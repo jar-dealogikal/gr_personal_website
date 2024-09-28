@@ -221,7 +221,7 @@ export default function Example() {
 									</motion.a>
 
 									<motion.a
-										href="https://www.instagram.com" // Replace with your Instagram link
+										href="https://www.instagram.com/grsullano/" // Replace with your Instagram link
 										target="_blank"
 										rel="noopener noreferrer"
 										initial={{ opacity: 0 }}
@@ -237,7 +237,7 @@ export default function Example() {
 									</motion.a>
 
 									<motion.a
-										href="mailto:your-email@example.com" // Replace with your email address
+										href="mailto:sullanogenesisray@gmail.com" // Replace with your email address
 										target="_blank"
 										rel="noopener noreferrer"
 										initial={{ opacity: 0 }}
