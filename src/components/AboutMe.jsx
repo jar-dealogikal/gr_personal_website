@@ -2,11 +2,11 @@ import { CheckCircleIcon } from "@heroicons/react/20/solid";
 import img from "../images/img4.jpeg";
 const benefits = [
 	"Singing",
-	"Trader",
+	"Trading Cryptocurrency",
 	"Love coding",
-	"Guitar",
-	"Strive to learn new things",
-	"A great work environment",
+	"Paying Guitar",
+	"Cooking and experimenting new recipes",
+	"Photography",
 ];
 
 export default function AboutMe() {
@@ -18,15 +18,28 @@ export default function AboutMe() {
 						<img
 							alt=""
 							src={img}
-							className="h-96 w-full flex-none rounded-2xl object-cover shadow-xl lg:aspect-square lg:h-auto lg:max-w-sm"
+							className="h-96 w-full flex-none rounded-2xl object-cover shadow-xl lg:aspect-square lg:h-[35rem] lg:max-w-sm"
 						/>
 						<div className="w-full flex-auto">
 							<h2 className="text-3xl font-bold tracking-tight text-black sm:text-4xl">
 								About Me
 							</h2>
 							<p className="mt-6 text-lg leading-8 text-gray-500">
-								Lorem ipsum dolor sit amet consect adipisicing elit. Possimus
-								magnam voluptatum cupiditate veritatis in accusamus quisquam.
+								I am Genesis and I am a student in IT at ACLC Mandaue at the
+								present time. The pleasure I take in programming leads me to
+								learn and utilize several coding languages and tech. Outside of
+								what I study, I love to sing and regularly find delight in
+								expressing myself through music.Cooking is another love of mine;
+								I love experimenting with new recipes in the kitchen. While I
+								have some time to myself, I enjoy playing guitar and singing
+								sometimes, which seems to me an ideal way to relax. In addition
+								to what I like, I also greatly enjoy photography, which lets me
+								take beautiful photos through a lens. My entry into trading
+								cryptocurrency has unveiled to me the context of finance and
+								investment. My curiosity drives me to learn constantly, whether
+								that’s a new ability or an alternative view; I think that for
+								continuous growth, personal and professional, learning is
+								essential.
 							</p>
 							<ul className="mt-10 grid grid-cols-1 gap-x-8 gap-y-3 text-base leading-7 text-gray-500 sm:grid-cols-2">
 								{benefits.map((benefit) => (
@@ -44,7 +57,7 @@ export default function AboutMe() {
 				</div>
 				<div
 					aria-hidden="true"
-					className="absolute inset-x-0 -top-16 -z-10 flex transform-gpu justify-center overflow-hidden blur-3xl"
+					className="absolute inset-x-0 -top-14 -z-10 flex transform-gpu justify-center overflow-hidden blur-3xl"
 				>
 					<div
 						style={{

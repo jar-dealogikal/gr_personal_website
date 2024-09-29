@@ -41,9 +41,8 @@ export default function Photos() {
 							Photos
 						</h2>
 						<p className="mt-6 text-xl leading-8 text-gray-600">
-							Quasi est quaerat. Sit molestiae et. Provident ad dolorem
-							occaecati eos iste. Soluta rerum quidem minus ut molestiae velit
-							error quod. Excepturi quidem expedita molestias quas.
+							In addition to what I like, I also greatly enjoy photography,
+							which lets me take beautiful photos through a lens.
 						</p>
 					</div>
 					<div className="flex flex-wrap items-start justify-end gap-6 sm:gap-8 lg:contents">

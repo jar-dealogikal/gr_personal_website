@@ -197,10 +197,11 @@ export default function Example() {
 									initial={{ opacity: 0, x: -50 }}
 									animate={paragraphControls}
 								>
-									Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugit
-									atque ad dicta architecto aliquam voluptate, culpa delectus
-									doloribus ex veniam quasi, dolores, necessitatibus corporis
-									commodi accusantium sequi praesentium rerum a.
+									Hi, I made this personal website to share my journey as an IT
+									student at ACLC Mandaue, explore my passion for programming,
+									and showcase my interests in singing, cooking, guitar,
+									photography, and cryptocurrency trading. I'm always eager to
+									learn new things and grow personally and professionally.
 								</motion.p>
 
 								<div id="multimedia" className="mt-5 flex items-center gap-x-6">
